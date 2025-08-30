@@ -28,9 +28,3 @@ A simple weather app built with **React + TypeScript** that fetches live weather
 
 ---
 
-## ⚙️ Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
